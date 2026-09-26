@@ -305,12 +305,3 @@ spec:
 
 If you want the full working example, clone and follow [DemoApp/README.md](DemoApp/README.md).
 
----
-
-## 📄 License
-
-This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
-
----
-
-**GitHub:** [@mukund58](https://github.com/mukund58)
